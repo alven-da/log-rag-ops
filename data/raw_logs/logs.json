@@ -1,0 +1,4098 @@
+[
+  {
+    "timestamp": "2026-04-02T07:16:36.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-dfb61fa1",
+    "trace_id": "1008f66b-9396-4cc7-b870-6e13e660a52a"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:37.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 1912ms",
+    "request_id": "req-ae251907",
+    "trace_id": "192b5deb-4ece-4019-9e15-b6367cb061c4"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:38.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-217a6380",
+    "trace_id": "d91a7101-f011-420f-8ec8-78f90cb67abb"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:39.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.85",
+    "request_id": "req-fc417db2",
+    "trace_id": "a7af5889-3a47-47eb-adb2-b895fd9f1cb9"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:40.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-742a38c2",
+    "trace_id": "90b66db9-c580-46cf-a18d-e0e63443b4ae"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:41.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-d004bc70",
+    "trace_id": "074a20b1-6a61-4e1e-93c8-531a69eab465"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:42.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 2275ms",
+    "request_id": "req-3854a8a2",
+    "trace_id": "19835e0b-3c85-462a-b34a-cf734fd78af7"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:43.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-0a32e953",
+    "trace_id": "8fb76680-4574-48f9-afd7-f510740221df"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:44.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 3938ms",
+    "request_id": "req-afc34335",
+    "trace_id": "eddd5748-e99d-4947-9d73-7d665636854d"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:45.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-0d66c103",
+    "trace_id": "a9d93df1-f7ba-42d8-b165-fd2ba27031e7"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:46.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xda0d",
+    "request_id": "req-25a2caf1",
+    "trace_id": "9f8cf68c-e477-4fae-9eec-96e4c2faa9cd"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:47.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-6f580aa1",
+    "trace_id": "81315766-36d1-452a-a894-99f1c2715b99"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:48.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.45",
+    "request_id": "req-6a469164",
+    "trace_id": "ed5b4df0-ed28-4e14-baa0-25022e1dece1"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:49.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 704ms",
+    "request_id": "req-88f6ec58",
+    "trace_id": "ce7d143e-448e-4730-bcce-9f7e9f1443a9"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:50.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-377f5ebd",
+    "trace_id": "739ccbda-764c-41d7-a008-dca4701d6538"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:51.733387Z",
+    "service": "order-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.195",
+    "request_id": "req-6da39a0c",
+    "trace_id": "45f83d81-5f97-4736-a7c2-24517ab59709"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:52.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-c52deb83",
+    "trace_id": "26442656-567b-4279-8640-eeea9864100c"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:53.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-9cdd31db",
+    "trace_id": "2a4d378e-311d-40ab-b190-59d2831729a2"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:54.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-395d4ee4",
+    "trace_id": "ff1810e2-7ae0-4252-81db-1b50dc6f303a"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:55.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x3549",
+    "request_id": "req-776b7031",
+    "trace_id": "a2eac107-638d-47bf-85c7-203c34681441"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:56.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 198ms",
+    "request_id": "req-5fce391d",
+    "trace_id": "cc0d6484-b89a-4bd7-a6ee-907a1c3b18b8"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:57.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 1791ms",
+    "request_id": "req-3d0f9f1f",
+    "trace_id": "a145adac-00b1-4b3e-86dc-9409105b6944"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:58.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-0d1ed53c",
+    "trace_id": "09101e3a-438e-49db-ae5d-a6de0ff7fa48"
+  },
+  {
+    "timestamp": "2026-04-02T07:16:59.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x6376",
+    "request_id": "req-e800462f",
+    "trace_id": "158ce01b-1c3b-4018-b4f5-cb5d2e33a0c9"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:00.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x97ad",
+    "request_id": "req-b937f38c",
+    "trace_id": "7ff85d99-f47b-4b0a-bd4f-9952ec0a7e4b"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:01.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xad2b",
+    "request_id": "req-07e7a120",
+    "trace_id": "e9179ed3-8419-47b0-97e4-af3f9cf71dc6"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:02.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-a535fdb9",
+    "trace_id": "4c56bfb6-0ecc-42d7-b37a-6b9c32753cc3"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:03.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-058df282",
+    "trace_id": "188d8aa1-b66e-4804-9377-1269610939a3"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:04.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x9684",
+    "request_id": "req-9966fdcb",
+    "trace_id": "9758cf0a-62a3-410d-9a9a-ed033d48de52"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:05.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-28ad3188",
+    "trace_id": "74faab40-8c56-44ee-91d9-8d579a31611e"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:06.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Slow query detected in auth-service",
+    "request_id": "req-03b2aaba",
+    "trace_id": "77e0c65d-3044-4535-bf8b-ced44396aaf8"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:07.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-df1ef3ac",
+    "trace_id": "faf2bdba-725f-409c-8525-353ca90aeee0"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:08.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "UNCAUGHT_EXCEPTION: NullPointer at line 9263",
+    "request_id": "req-da92bdba",
+    "trace_id": "d8130dd2-dc5f-4537-bad5-ab8ddfd72bbe"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:09.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 4234ms",
+    "request_id": "req-8c48d6da",
+    "trace_id": "c6f9b5cd-1bd6-485c-9666-e64fc8f216ac"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:10.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "Failed to process payment for 91510ecc-ebc3-41c1-9e91-9567e8f37347",
+    "request_id": "req-4f0469d8",
+    "trace_id": "aba8c4dc-c490-49d1-ae5d-4695db615589"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:11.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xaa4",
+    "request_id": "req-59609af6",
+    "trace_id": "40921f32-42c1-4ab3-b43f-722a60597e16"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:12.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xf177",
+    "request_id": "req-9629fae8",
+    "trace_id": "15a1bd44-1934-43a9-b5c6-2b753ed159c5"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:13.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 2828ms",
+    "request_id": "req-51a9c84a",
+    "trace_id": "c599c6f7-14ed-4440-bc25-3b277c73a8d2"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:14.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-823332e7",
+    "trace_id": "c66ee841-5415-475d-a554-b856cfc3b9c1"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:15.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-4317bb14",
+    "trace_id": "257b114c-14b1-452b-ac48-6651030187bd"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:16.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 3343ms",
+    "request_id": "req-66af90dd",
+    "trace_id": "ab412b0c-d51f-4b82-8dc4-3d9aeb2ec428"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:17.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-f9c7ecf7",
+    "trace_id": "29ad949b-6c90-4978-8208-d269a7a0276d"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:18.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-494d0bc7",
+    "trace_id": "8da26835-6f48-4b45-bccf-1db6d240fbb4"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:19.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.150",
+    "request_id": "req-1135927a",
+    "trace_id": "c78744d9-c376-4803-816b-c1794ccc14d0"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:20.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-16630bc3",
+    "trace_id": "39b2b63c-0c8c-42fa-8c55-7fe6e8b2be9a"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:21.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xdd30",
+    "request_id": "req-b26c533d",
+    "trace_id": "5579f326-1588-4a13-9783-f580135bb649"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:22.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.124",
+    "request_id": "req-25023710",
+    "trace_id": "103eabc2-885c-4ac8-a50f-75090254c3b4"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:23.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "Slow query detected in shipping-worker",
+    "request_id": "req-8c998b31",
+    "trace_id": "a5ba77b3-0539-4f39-9544-ce4579e2925d"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:24.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x84f0",
+    "request_id": "req-a9c9e64a",
+    "trace_id": "a3053e2f-ea82-4d33-988b-73321d18f17b"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:25.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-2cf4b4e0",
+    "trace_id": "7ac063e7-ba05-42af-9e9f-915a25975fd3"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:26.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-c4751010",
+    "trace_id": "1cf51099-ed26-4f3a-b9f1-b07dd8b1db1f"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:27.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 243ms",
+    "request_id": "req-81465b76",
+    "trace_id": "a92e5b85-3b97-4772-a007-426e4766e552"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:28.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 1095ms",
+    "request_id": "req-a639152a",
+    "trace_id": "b3f2b73d-89b7-4479-bb6e-4bdc96d37c46"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:29.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-dd415e66",
+    "trace_id": "4562db97-5bc8-49dc-abce-bbfc72c0eb9c"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:30.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Slow query detected in order-service",
+    "request_id": "req-cebdb0a6",
+    "trace_id": "8d126ea8-a52d-48f9-b0cd-340612002335"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:31.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-52b22da3",
+    "trace_id": "d56fe75a-dcba-4bf1-a581-c148620b7083"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:32.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x3ec",
+    "request_id": "req-aba00b6e",
+    "trace_id": "af1762af-44ec-4d49-8681-9293dd5c4856"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:33.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-0edbf2dc",
+    "trace_id": "e0ea2549-9343-48de-8a03-3600fad19a76"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:34.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-d2725b26",
+    "trace_id": "0a6b2f7e-3395-47b4-a93c-4aa7cec01c8e"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:35.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x5076",
+    "request_id": "req-7f6e0f1c",
+    "trace_id": "0acb4ea4-34d2-4ab1-964b-3d4da21dcf8b"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:36.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 4135ms",
+    "request_id": "req-3e5f404f",
+    "trace_id": "63b035db-83d0-4b5c-9e5a-62118f170dd4"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:37.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-6c817e4c",
+    "trace_id": "3e71c9d5-a13e-4946-8063-a11727dd38f5"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:38.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-40951f76",
+    "trace_id": "f325e2a5-ddbd-4c1e-bef5-9f57b0b555ae"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:39.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-64f083e4",
+    "trace_id": "69a1a0c0-3369-42c0-8bb9-7fbba53816d5"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:40.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-b7c092fd",
+    "trace_id": "b916f957-50f5-4dc6-8e3a-2c53cc66ea96"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:41.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 1730ms",
+    "request_id": "req-b01464cd",
+    "trace_id": "9fcd82e3-7275-4979-9b9d-e37f24b0b236"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:42.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 3323ms",
+    "request_id": "req-2e35779d",
+    "trace_id": "c6c6c280-72d3-4e7d-9036-b3909d21fa44"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:43.733387Z",
+    "service": "shipping-worker",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.83",
+    "request_id": "req-902c8a03",
+    "trace_id": "2d0549b3-1b3b-4ce6-b3bf-2fb47d31e1ef"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:44.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xd1f0",
+    "request_id": "req-3a4b512b",
+    "trace_id": "c6f80881-9be2-4a04-95a9-7055afaaa3c5"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:45.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-6e05558b",
+    "trace_id": "2d2e6a03-54a7-4159-8bc1-5ef0b831d7c9"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:46.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Slow query detected in auth-service",
+    "request_id": "req-3de15b6f",
+    "trace_id": "e256dfd8-e0a5-44c2-8bc0-81065379f804"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:47.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-a6cd5125",
+    "trace_id": "f700da3a-da5e-44a4-9fef-09066565db08"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:48.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-d783ec6c",
+    "trace_id": "b2be26b4-1e4d-47ca-a6db-ed96ae7823af"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:49.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 1706ms",
+    "request_id": "req-350cf988",
+    "trace_id": "40f44693-50c4-4fdc-9ffe-9e202c840ef7"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:50.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-d43e8c6c",
+    "trace_id": "c6865545-d22e-4204-9bf1-0e8b3645f184"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:51.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 3679ms",
+    "request_id": "req-5c2c48c3",
+    "trace_id": "7a28c78f-e1ef-4db5-b93c-b1d8cad46eac"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:52.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 3161ms",
+    "request_id": "req-de81efed",
+    "trace_id": "cacc4a63-498b-421e-a72f-d3acfd747307"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:53.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-ca584dcd",
+    "trace_id": "cbb696c9-7420-4c75-9e4d-cb8afbedef42"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:54.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xb2d2",
+    "request_id": "req-843beb72",
+    "trace_id": "c8fc7e66-843e-4fa4-90af-f26b5be9885d"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:55.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-0240092c",
+    "trace_id": "4a5966bf-d722-48f2-a5e3-11c38c21964b"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:56.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x5f33",
+    "request_id": "req-b2a7ac35",
+    "trace_id": "74e0592f-e81a-43eb-a90f-2fc687f9e741"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:57.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Slow query detected in order-service",
+    "request_id": "req-03b55a0e",
+    "trace_id": "af2fc0de-3304-497b-b964-8c1d34543e47"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:58.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-b191de9d",
+    "trace_id": "c1b8373d-93ab-476d-ba1c-ae07448483a1"
+  },
+  {
+    "timestamp": "2026-04-02T07:17:59.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 3816ms",
+    "request_id": "req-3eed38fb",
+    "trace_id": "c7051318-c5f5-4ab4-8dc8-996c3ae8a61b"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:00.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 2854ms",
+    "request_id": "req-652de852",
+    "trace_id": "9fa6d935-dbe4-4c3c-89c4-d9db810f42c3"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:01.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-ba282863",
+    "trace_id": "55456bf1-606a-41f2-a165-3c7a4a63dbeb"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:02.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xde91",
+    "request_id": "req-53613676",
+    "trace_id": "c0ef369f-7dd5-4d1f-b8e5-57d0c77cddeb"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:03.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 2960ms",
+    "request_id": "req-bcdc53b9",
+    "trace_id": "595c0011-b503-47a5-a536-0f9327e12cad"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:04.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x955b",
+    "request_id": "req-67aa13d1",
+    "trace_id": "4931743b-4eb0-4720-8ab4-3641919fe84a"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:05.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-7de73ab3",
+    "trace_id": "9de9d47a-e18f-439a-9df1-f35e0c1a5ff5"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:06.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xbb40",
+    "request_id": "req-aa5d1d13",
+    "trace_id": "9d46a81d-7482-4971-92c0-a397e17f8ff5"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:07.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 2153ms",
+    "request_id": "req-03da7bc4",
+    "trace_id": "3f9b96f0-1b7a-4df3-a6f7-c334b916c85a"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:08.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-1fe31e4c",
+    "trace_id": "64bcef9c-3f9f-4db7-9e8e-df2ff720fca4"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:09.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 4128ms",
+    "request_id": "req-488c09a4",
+    "trace_id": "74e7707b-8617-4b0b-90ed-dea2748a618d"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:10.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 3697ms",
+    "request_id": "req-1f1f3d44",
+    "trace_id": "14756e6f-ca14-4e79-b599-8d31464d7f21"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:11.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4990ms",
+    "request_id": "req-1ae8e346",
+    "trace_id": "359cc9d7-6ae1-49c0-927b-a7cc329bdd4d"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:12.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xf003",
+    "request_id": "req-44a59e86",
+    "trace_id": "92efa7bf-6579-4f2d-8595-c1043a17b611"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:13.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Slow query detected in payment-service",
+    "request_id": "req-4c53a28e",
+    "trace_id": "64fade23-b95b-467f-97c8-ec946398196b"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:14.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-10c71ae5",
+    "trace_id": "30c27ca8-0d60-4c95-9e8b-9e48f8ee440a"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:15.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-32f1b718",
+    "trace_id": "2ce9918b-72a4-4751-9c0c-2fe5235ce730"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:16.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 1439ms",
+    "request_id": "req-cf526ac1",
+    "trace_id": "d4a4dec9-774e-48a7-8383-8841ffa336df"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:17.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-0b5e619b",
+    "trace_id": "5635f597-35e1-4235-81c3-da90f579583c"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:18.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4153ms",
+    "request_id": "req-ccbe84b9",
+    "trace_id": "5e0f0fd2-969b-4d2e-bdf4-39a030bd4e8d"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:19.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-5bb7d079",
+    "trace_id": "9200b3f4-af99-4f9a-b128-cc8137dc2dc8"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:20.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x2471",
+    "request_id": "req-f041d9c0",
+    "trace_id": "00c66e83-6b2c-45a3-8619-4c79f0c03a3a"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:21.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.250",
+    "request_id": "req-37e8f93a",
+    "trace_id": "af5d926a-239a-435f-b0f3-dc926a8ceff2"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:22.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Slow query detected in payment-service",
+    "request_id": "req-9f61e53a",
+    "trace_id": "9b0fb082-be72-4696-9430-b99557985f2d"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:23.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x9b88",
+    "request_id": "req-8df79d73",
+    "trace_id": "cca64f53-6430-41fd-9a92-7bfc2bb987a3"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:24.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x701b",
+    "request_id": "req-f3b42a5b",
+    "trace_id": "d8527a14-6f12-4283-95a7-e535fa14c109"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:25.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 2013ms",
+    "request_id": "req-54503494",
+    "trace_id": "55567a9d-2a09-49af-bfd7-6292e9d2f5d0"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:26.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x5b",
+    "request_id": "req-bd6cf158",
+    "trace_id": "3997b867-1a35-4a1c-9e68-39fe72000d65"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:27.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-39c58111",
+    "trace_id": "c43b6a28-3fa9-43da-83f3-f5666576ddb2"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:28.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-51f56059",
+    "trace_id": "29841b60-dd18-4a36-abfe-ea00f1d73cad"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:29.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x54a",
+    "request_id": "req-b9d7aa23",
+    "trace_id": "19d7447b-82b7-4321-8b16-aea6076fc262"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:30.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 109ms",
+    "request_id": "req-e74440cd",
+    "trace_id": "f6497b9c-5de6-4149-8091-93097e8863e6"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:31.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x5c99",
+    "request_id": "req-667fe340",
+    "trace_id": "28f55a97-ed6c-409b-8652-5f9e30934450"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:32.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 1395ms",
+    "request_id": "req-a316b56a",
+    "trace_id": "8c4efe3c-dc5b-46c1-a66a-334caf2b4b9c"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:33.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-4eca1b3e",
+    "trace_id": "6798eb93-feba-422a-8121-3d7f4ff82412"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:34.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-2a69a0c7",
+    "trace_id": "d595b3bc-85f5-4f5f-99df-d1593c184b54"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:35.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-79b78168",
+    "trace_id": "c30ed2c2-77c9-4a59-b20c-4aa3b3ceb3f0"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:36.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-9748c624",
+    "trace_id": "19252eac-e47b-4862-a6c7-79fcd8dee34e"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:37.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 1169ms",
+    "request_id": "req-9af0bb9f",
+    "trace_id": "5da3836c-e5ca-4754-88a3-875c582c7ceb"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:38.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.243",
+    "request_id": "req-a03ce5fa",
+    "trace_id": "aa1bb0f7-81cc-4198-bc20-67d918217d13"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:39.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.83",
+    "request_id": "req-94e422a6",
+    "trace_id": "26fb97b9-a3df-4174-a3c1-da2cabe31570"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:40.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xd0ce",
+    "request_id": "req-21626104",
+    "trace_id": "8d8af03a-83fd-459f-b3f6-29edb56e78fb"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:41.733387Z",
+    "service": "shipping-worker",
+    "level": "ERROR",
+    "message": "UNCAUGHT_EXCEPTION: NullPointer at line 1519",
+    "request_id": "req-f5b71023",
+    "trace_id": "df338f10-c67d-4757-b697-0536106e5740"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:42.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x7e64",
+    "request_id": "req-f9738bd6",
+    "trace_id": "3d1fc905-9bbb-43f0-b440-142ecbfcf711"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:43.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.132",
+    "request_id": "req-5fd758f6",
+    "trace_id": "a27190db-baab-4cf0-8fd2-a02e97b52312"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:44.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x461b",
+    "request_id": "req-9fce23cf",
+    "trace_id": "cd54bf45-11d9-4998-b7b8-bb56239fee49"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:45.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 577ms",
+    "request_id": "req-dd10ed6b",
+    "trace_id": "69ffdb5b-9a1b-4674-9464-668f91917894"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:46.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xaeaa",
+    "request_id": "req-48fb5867",
+    "trace_id": "23679fe2-08de-4621-ad59-161c53de8759"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:47.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.173",
+    "request_id": "req-5d7dd99a",
+    "trace_id": "5b398eb8-4fc3-448a-a4e2-5e5877dc4c11"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:48.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-9f6b3c0f",
+    "trace_id": "ac3e1f35-82f7-4703-81cc-b81ee7a829b2"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:49.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xc804",
+    "request_id": "req-d37c85fc",
+    "trace_id": "7f1b91d3-794e-4bd2-afa9-2215ad1d17e2"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:50.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-f5ad2a9e",
+    "trace_id": "2676a49a-ac1d-4439-bb4d-b9b12a062a46"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:51.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Slow query detected in auth-service",
+    "request_id": "req-1c8cf4dd",
+    "trace_id": "670d1775-371f-4738-90c8-57618f69811a"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:52.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xe1f2",
+    "request_id": "req-fadb26fa",
+    "trace_id": "5030b4dd-99ef-497e-8ab3-bbb956d2bb80"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:53.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-642a076b",
+    "trace_id": "125f6ab9-4434-4883-a2f3-778fb3914407"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:54.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4913ms",
+    "request_id": "req-cd597e86",
+    "trace_id": "31e15c75-2bee-4966-9a79-868fa6f8f938"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:55.733387Z",
+    "service": "order-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.187",
+    "request_id": "req-0d277b0a",
+    "trace_id": "b81b3775-02d3-4205-8af9-cf782ea815b3"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:56.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-65576efd",
+    "trace_id": "bc982b93-c0db-4ab0-8fb3-4cfd35141c39"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:57.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "Failed to process payment for 68970b9f-1194-4e1d-b50b-cae574e6abac",
+    "request_id": "req-789a0bf0",
+    "trace_id": "fc5d7a53-bc1d-4a5b-9081-6143d347e1f2"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:58.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Slow query detected in auth-service",
+    "request_id": "req-ea51ea1c",
+    "trace_id": "db2e8988-0efa-4c0c-89ca-3f267a79d8a1"
+  },
+  {
+    "timestamp": "2026-04-02T07:18:59.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-1cae884d",
+    "trace_id": "7d83b8d8-994e-4f23-9c08-fe7da256a994"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:00.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-c54128b7",
+    "trace_id": "6aa499d8-6693-43a4-9fce-afdc1557102b"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:01.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x1a75",
+    "request_id": "req-895dac24",
+    "trace_id": "1639ee8b-0451-4e36-9800-c8d1ea9bcd8e"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:02.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-6ab9e3d0",
+    "trace_id": "c491dabf-e56a-4764-8b2f-3224af4020d5"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:03.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-561708c3",
+    "trace_id": "cd16af07-bdec-4083-a769-4c03de4f7c8a"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:04.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-10845616",
+    "trace_id": "e92ef35c-020b-4676-8613-4812c8e42813"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:05.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x93ec",
+    "request_id": "req-5c240489",
+    "trace_id": "b46f1491-13f1-4695-8733-ed2e16139058"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:06.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "Failed to process payment for d4ba3cfb-776c-4ffa-8549-61670a1151ff",
+    "request_id": "req-cad479b9",
+    "trace_id": "d3e07c8f-c3ac-4a1e-9da0-c96dafd767a2"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:07.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4039ms",
+    "request_id": "req-0091b33a",
+    "trace_id": "64a4c7dc-5e34-43f8-9598-0d1688fd8743"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:08.733387Z",
+    "service": "order-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.247",
+    "request_id": "req-3dcdee0e",
+    "trace_id": "d9ac4d97-e8f4-414c-80ce-958f4678c218"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:09.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 478ms",
+    "request_id": "req-f99d9011",
+    "trace_id": "429810f3-c8d5-4342-83b8-56336f1e0138"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:10.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x31ec",
+    "request_id": "req-e8710e47",
+    "trace_id": "7cbb3367-5c13-4645-8449-2a46ba980d22"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:11.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-1ef6b03b",
+    "trace_id": "edb45c25-8dc9-4376-83a1-dd7d5e05a661"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:12.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Slow query detected in payment-service",
+    "request_id": "req-2cecbd5a",
+    "trace_id": "767d58ed-0328-4e1c-8049-be8bd152f9c5"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:13.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 1910ms",
+    "request_id": "req-1c54a720",
+    "trace_id": "d6ee507c-2df1-48a1-bac7-8fbdde8904f9"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:14.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-07ceedbb",
+    "trace_id": "09b8a246-840b-4afa-886a-3c531abc8e70"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:15.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "UNCAUGHT_EXCEPTION: NullPointer at line 9315",
+    "request_id": "req-7724202a",
+    "trace_id": "80e60906-5009-40ed-8a9e-7b1e1f84acc5"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:16.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Slow query detected in auth-service",
+    "request_id": "req-a13cfb65",
+    "trace_id": "9c262c40-40c8-4915-9bf6-743eb1da43a2"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:17.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-e23cd970",
+    "trace_id": "2023dfea-79a2-4d39-82c0-902fbab29989"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:18.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-7efecb24",
+    "trace_id": "31b5e055-102f-4562-9f97-6d46033a6939"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:19.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 4756ms",
+    "request_id": "req-f84ff4c6",
+    "trace_id": "7e9b6670-6f5f-4b3a-a002-23abfd95702d"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:20.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 2851ms",
+    "request_id": "req-04149b46",
+    "trace_id": "8ddeb8c9-dbf3-4f80-b230-7f71e77bb2dc"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:21.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.234",
+    "request_id": "req-7c238442",
+    "trace_id": "dfac000a-98bc-47e5-bdc8-ba9ed276c0f0"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:22.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xb9c7",
+    "request_id": "req-36072bd6",
+    "trace_id": "934efde9-b64e-4863-9f0e-9f489e4400fe"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:23.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-4d30c4f9",
+    "trace_id": "31f0b42d-aa39-49df-a029-518ab8c4863b"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:24.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 4628ms",
+    "request_id": "req-2cf5a275",
+    "trace_id": "5f92f8e7-e067-40d7-8cd5-b3c708c877ac"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:25.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 3150ms",
+    "request_id": "req-7def68ef",
+    "trace_id": "27487bb9-480d-4b44-a97d-5ea805c382d3"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:26.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-de27065e",
+    "trace_id": "0493f859-9475-4816-8882-5d06b4d85404"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:27.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 1152ms",
+    "request_id": "req-6191d611",
+    "trace_id": "234ca041-5436-4525-a64b-a0486d5ef59c"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:28.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 1664ms",
+    "request_id": "req-0dac3c2f",
+    "trace_id": "503ca1d1-3b4e-4e49-a64b-6b12077d4590"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:29.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "Slow query detected in shipping-worker",
+    "request_id": "req-6f737bc6",
+    "trace_id": "bd4b5556-ea13-41b1-b344-0afb32899732"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:30.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 4436ms",
+    "request_id": "req-1869e622",
+    "trace_id": "84a09e6c-4d81-4713-b27c-3b8ded0ed639"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:31.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4951ms",
+    "request_id": "req-1c4f9d40",
+    "trace_id": "9ca2d5a4-bd48-45a0-a6b1-4034b0c3f9fa"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:32.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xd9ac",
+    "request_id": "req-359a8fcd",
+    "trace_id": "68bda251-54e7-4144-9927-9c92d1897622"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:33.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xdb7f",
+    "request_id": "req-725ac6f4",
+    "trace_id": "6503c1f1-4f09-4902-bd2e-0aaeac2f4008"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:34.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x169f",
+    "request_id": "req-12a97c18",
+    "trace_id": "7660143a-3705-4641-8465-622431813718"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:35.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 2208ms",
+    "request_id": "req-35f39331",
+    "trace_id": "0fa9e643-1f1c-4ec4-abaf-f51fb6f84d12"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:36.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 1465ms",
+    "request_id": "req-8196a990",
+    "trace_id": "6ebe6041-1630-4179-a6dd-8fb580468ae4"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:37.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 4561ms",
+    "request_id": "req-6962d125",
+    "trace_id": "5f55d05b-6837-4755-9ad0-2c2c32d2f0a2"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:38.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x9bff",
+    "request_id": "req-024b971d",
+    "trace_id": "bca7f840-ae8b-4560-96b6-d0c4c3c266e6"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:39.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.90",
+    "request_id": "req-916d9077",
+    "trace_id": "0c2c7104-cc20-4e6c-a545-f707a5e7f6ac"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:40.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-0ef23c4f",
+    "trace_id": "78b6e74b-0529-41b8-a613-11c74c8c54b7"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:41.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 3475ms",
+    "request_id": "req-09fc5a11",
+    "trace_id": "a87e3089-5673-42d4-8348-2dc927b1de51"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:42.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-b2c91e30",
+    "trace_id": "7a263372-141a-4a47-a69e-b87c06a418f0"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:43.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 721ms",
+    "request_id": "req-fb966426",
+    "trace_id": "e79079fc-d39d-45b6-8158-07e449043fe3"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:44.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 1473ms",
+    "request_id": "req-e7e4a827",
+    "trace_id": "f1487f12-3ac2-411d-a00f-9b8ed52ffcec"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:45.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-3fed010c",
+    "trace_id": "a28f5c8c-52c3-4a41-a8ef-e084ac418fcd"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:46.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-ab002b26",
+    "trace_id": "40935955-aa71-47f6-b699-2fc5c734a703"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:47.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.170",
+    "request_id": "req-99f5c75b",
+    "trace_id": "4afe1221-6feb-4810-ba11-1b7b0c6c0dba"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:48.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-f7901bc4",
+    "trace_id": "d1b3e41e-edad-461b-a799-23dcb5c93698"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:49.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x7653",
+    "request_id": "req-557a2f4b",
+    "trace_id": "98b2aa1a-b57f-4206-884d-b9f2672a8429"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:50.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 1795ms",
+    "request_id": "req-58abe42c",
+    "trace_id": "9fe2b894-ab43-4fae-b0ae-912ed47673ee"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:51.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x80e4",
+    "request_id": "req-17bf6e3c",
+    "trace_id": "55c23d09-cbb7-45f8-b95d-ae020fa7a128"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:52.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-65af0139",
+    "trace_id": "2852e0d8-f5d4-4d30-a0ba-6cd9e1b27794"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:53.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 359ms",
+    "request_id": "req-03b241bb",
+    "trace_id": "fb6caa23-fd78-43fc-ad9b-2067177d391b"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:54.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xded4",
+    "request_id": "req-76e3ddf3",
+    "trace_id": "69850216-53b7-4712-9d35-7bc7e5fb7f04"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:55.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-20306b62",
+    "trace_id": "369a9fa5-2516-48c6-9818-dc265d491f94"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:56.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-27211fee",
+    "trace_id": "23de80b0-8d58-4dfb-8c7b-5e540b10d93e"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:57.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-b1407cfe",
+    "trace_id": "e81583f9-423b-4842-a2d1-8351d0f0e7ae"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:58.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "UNCAUGHT_EXCEPTION: NullPointer at line 3967",
+    "request_id": "req-f3a5b011",
+    "trace_id": "52390509-83a5-4e81-8af5-49cfbd2e186c"
+  },
+  {
+    "timestamp": "2026-04-02T07:19:59.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 887ms",
+    "request_id": "req-eca6163f",
+    "trace_id": "303e5f8a-ef71-4adb-8635-b2f55cb9888f"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:00.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 3325ms",
+    "request_id": "req-f4670627",
+    "trace_id": "74da22bf-6175-42ac-8fb6-62bc7df2d125"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:01.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 1064ms",
+    "request_id": "req-1f9e83ce",
+    "trace_id": "63f1f660-f2a2-4390-9a3c-f31e8ac013ae"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:02.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-614ca6a4",
+    "trace_id": "5948ef95-7092-4881-b371-58b7f306f7a6"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:03.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 1820ms",
+    "request_id": "req-c27d8ef9",
+    "trace_id": "06574252-ffd2-4be6-a83e-1d1ef7011edd"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:04.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x990d",
+    "request_id": "req-90d102f0",
+    "trace_id": "c4970330-347f-4c6f-af53-08e3fddd1c28"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:05.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-01e4b5f1",
+    "trace_id": "da0cc257-7b86-467f-9ac3-c05720346e20"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:06.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-4c1e06a7",
+    "trace_id": "47915d5d-489b-4df8-a5e1-a9dbded7334e"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:07.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 745ms",
+    "request_id": "req-6c82e16d",
+    "trace_id": "80cf92de-aedc-4329-b8be-b0ca9ebe8fb8"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:08.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x447a",
+    "request_id": "req-c3d655da",
+    "trace_id": "5bb95f8d-16b6-4e8a-95f5-24307a32ea1e"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:09.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xde74",
+    "request_id": "req-edea7685",
+    "trace_id": "4154c038-9830-4611-b218-4c30d0449942"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:10.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-2cbf90cf",
+    "trace_id": "c7e3ec5b-0b38-442e-9290-c282e161fd8c"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:11.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Slow query detected in order-service",
+    "request_id": "req-5ab81d2b",
+    "trace_id": "2ab9c2f5-4f4d-4989-86d8-1842cfd5bbea"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:12.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4522ms",
+    "request_id": "req-9e0a3d76",
+    "trace_id": "ba86b281-b263-40d5-a96e-12365584accf"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:13.733387Z",
+    "service": "order-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.23",
+    "request_id": "req-10595256",
+    "trace_id": "dda91886-255b-4237-86f6-635a505d667f"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:14.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x47a",
+    "request_id": "req-2a235fae",
+    "trace_id": "59775aaa-0fad-49db-ae0e-18e4dd424b30"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:15.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 1874ms",
+    "request_id": "req-7fbb8521",
+    "trace_id": "c6c1a033-e927-49ff-8280-d93303511239"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:16.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x92a2",
+    "request_id": "req-580414cc",
+    "trace_id": "1b3cafbd-5134-4a4d-bf6c-3bd381b8d592"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:17.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-b35270d7",
+    "trace_id": "2e0c6fee-2b09-4342-9b1e-bcb9a5f3bd86"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:18.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-35cc85d9",
+    "trace_id": "e2b73a5d-7d6e-4811-859b-56184dfd0d9b"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:19.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x92de",
+    "request_id": "req-2b2cf9a8",
+    "trace_id": "b17f1e54-a84f-4ea7-a013-df4b0ee260ab"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:20.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-35d4d425",
+    "trace_id": "dcb8ffc3-ea5e-4c31-90f5-279b2bb92e55"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:21.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-5f6e3a9d",
+    "trace_id": "b7b8609e-2bbb-44c9-aceb-385ae69b23ea"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:22.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 3826ms",
+    "request_id": "req-db968ebc",
+    "trace_id": "7e44f818-99e1-4b5b-9a70-8acfdd3182dd"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:23.733387Z",
+    "service": "order-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.7",
+    "request_id": "req-be12267a",
+    "trace_id": "aa28d9c2-44d1-4e91-9c97-b25e23fd882f"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:24.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x9b46",
+    "request_id": "req-ee1e803e",
+    "trace_id": "eba1a20b-8ffc-49a0-925b-38c2152f5c74"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:25.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 366ms",
+    "request_id": "req-bfb2d467",
+    "trace_id": "fc7a54cf-5541-44a0-900a-9bcfffe3c84b"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:26.733387Z",
+    "service": "order-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.160",
+    "request_id": "req-8250e5e9",
+    "trace_id": "ef8e49e4-43fe-42f8-b002-2a120a09b394"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:27.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 4342ms",
+    "request_id": "req-82afb7fd",
+    "trace_id": "ecdeb502-05f5-40e4-9abe-cce4d7f86686"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:28.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x71db",
+    "request_id": "req-809b8f37",
+    "trace_id": "d0290653-bdbe-454d-8cf5-55b3fb3fea5f"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:29.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x1931",
+    "request_id": "req-e62e9af8",
+    "trace_id": "cefdf4c4-5446-41cb-8c27-6429d307bcd6"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:30.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 993ms",
+    "request_id": "req-fa410a87",
+    "trace_id": "500d2e01-b22d-402e-b0e8-33554d5f670d"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:31.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x26eb",
+    "request_id": "req-9c14d6a0",
+    "trace_id": "dac89d6f-cc3d-4c86-97b4-2138e5513760"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:32.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x7272",
+    "request_id": "req-5223dd06",
+    "trace_id": "8bdba35a-0a1f-441d-9f98-a38a70032626"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:33.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.240",
+    "request_id": "req-44723c61",
+    "trace_id": "fcc6494a-5353-4f08-9d18-1f9983d4c69e"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:34.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x75e",
+    "request_id": "req-23db6b32",
+    "trace_id": "15f4fb54-30c4-4e34-b09c-5a93418b0528"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:35.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-d922e58c",
+    "trace_id": "25d3ac3c-0851-43ca-9b6f-3a3977bcb828"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:36.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x3485",
+    "request_id": "req-400893ab",
+    "trace_id": "4c7e1e4b-9823-4d2b-ae8e-48198e90dc4a"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:37.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x8160",
+    "request_id": "req-c1655bf9",
+    "trace_id": "103443ef-8705-4f5f-808e-f14060f6d62b"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:38.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-df979f51",
+    "trace_id": "e14c33bb-42b5-4ae1-b9ef-dabc12e6043b"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:39.733387Z",
+    "service": "shipping-worker",
+    "level": "ERROR",
+    "message": "UNCAUGHT_EXCEPTION: NullPointer at line 8445",
+    "request_id": "req-fd6ac296",
+    "trace_id": "0dbef5f4-07c7-49ed-8c14-9a027c4aef30"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:40.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 4323ms",
+    "request_id": "req-385c6b92",
+    "trace_id": "69510f5c-b78e-4e68-ad43-1c37a6bc8b4e"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:41.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4575ms",
+    "request_id": "req-3d067ea6",
+    "trace_id": "4cb87344-03ce-44b5-97b8-5ae032931628"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:42.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 3597ms",
+    "request_id": "req-adf29013",
+    "trace_id": "d46718bd-d2c5-4ebf-be5e-1155d781e46f"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:43.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xb28",
+    "request_id": "req-9f9e1e79",
+    "trace_id": "f94f7ae1-63bc-44f5-9091-7a3cf6290545"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:44.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-810ecc4c",
+    "trace_id": "30cc39af-6d46-495b-93da-e6afe2de21a8"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:45.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-c6c54ad1",
+    "trace_id": "2726d274-9f50-4de8-b3f4-1112c6b8c2d0"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:46.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-a08a0cb0",
+    "trace_id": "8dfd8cfb-52f4-4ac9-b34c-d7c632ebade1"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:47.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 2480ms",
+    "request_id": "req-b745ddc2",
+    "trace_id": "c779b619-ed65-4caa-ae4c-6f2a0ad7adf6"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:48.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Slow query detected in order-service",
+    "request_id": "req-ea08a352",
+    "trace_id": "538c5d08-1ece-49fb-9b57-9c0aa057ab74"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:49.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Slow query detected in payment-service",
+    "request_id": "req-221c9807",
+    "trace_id": "f9f58f24-239b-4fef-83b2-494f81658bf2"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:50.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 4010ms",
+    "request_id": "req-edfd4cb9",
+    "trace_id": "5ecec74f-fddc-4554-9ca5-d43fe212769f"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:51.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "Failed to process payment for 11ce5fbf-619b-42d6-a984-e78d483f9016",
+    "request_id": "req-7c596ba9",
+    "trace_id": "b2db151c-5e79-4f2c-8667-a71475b9e93d"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:52.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xc765",
+    "request_id": "req-437bd434",
+    "trace_id": "3765824b-cba9-46ff-8808-7ebaf14ef835"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:53.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-5542bc22",
+    "trace_id": "4a3aae6f-513a-4ab2-8918-b310d8030fa3"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:54.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-3240d6bd",
+    "trace_id": "9101a36a-b208-4048-b787-c02bc7de4d72"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:55.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 4504ms",
+    "request_id": "req-d265033c",
+    "trace_id": "4c69a3f2-552c-4ad8-9662-963ab4950964"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:56.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-11e77164",
+    "trace_id": "6863fc47-9d7f-4193-9e1b-29175853d38e"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:57.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.140",
+    "request_id": "req-83b53a2b",
+    "trace_id": "b01f5821-5084-45d7-a5fb-1315e9561242"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:58.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 4939ms",
+    "request_id": "req-f71a15dc",
+    "trace_id": "fbbd2fb2-a3b3-43bf-9815-7aa6231a6dcb"
+  },
+  {
+    "timestamp": "2026-04-02T07:20:59.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 2310ms",
+    "request_id": "req-4fd2d37c",
+    "trace_id": "1597292d-4a8d-4c18-8e96-32b7e72a584e"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:00.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x2813",
+    "request_id": "req-b4e9b14b",
+    "trace_id": "8caf9a54-e129-4e16-9f63-ff880fc3d622"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:01.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Slow query detected in payment-service",
+    "request_id": "req-f741d0cc",
+    "trace_id": "b5464cd1-8cd0-4ef2-a732-5a7656400b87"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:02.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-1099919d",
+    "trace_id": "00937b76-7fe8-4dd5-a2f5-058f990cf87f"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:03.733387Z",
+    "service": "order-service",
+    "level": "ERROR",
+    "message": "UNCAUGHT_EXCEPTION: NullPointer at line 1512",
+    "request_id": "req-7e73405a",
+    "trace_id": "7dce0bcc-b1f4-4820-9912-b6b0cea39bee"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:04.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x6ef7",
+    "request_id": "req-f2285a6c",
+    "trace_id": "a0929e93-f5e8-4a21-90d6-4ecc0a4a3c09"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:05.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Slow query detected in auth-service",
+    "request_id": "req-06e139a1",
+    "trace_id": "af46e20e-492b-433e-ad4a-b7ef1e2186c2"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:06.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 2566ms",
+    "request_id": "req-df29f475",
+    "trace_id": "078d14ea-e8da-47d3-80de-1d2f0eef90a0"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:07.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x4058",
+    "request_id": "req-d065b937",
+    "trace_id": "0513c83f-2bfa-40f4-9c74-6c1945a34991"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:08.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x30a",
+    "request_id": "req-b405fc5f",
+    "trace_id": "8cc7035e-c2ca-4302-8492-3be790f4046e"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:09.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-b7c6f00a",
+    "trace_id": "754fa63f-9a5f-42b8-8fd6-946aa4f5e335"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:10.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-ca25eed5",
+    "trace_id": "9e9101a9-b127-4ab5-8fa0-45522b133687"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:11.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.39",
+    "request_id": "req-d3e8a915",
+    "trace_id": "b57bbe28-c807-47c1-a5cc-fe5b13d34589"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:12.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "Failed to process payment for 64d2cdba-816a-4c17-ab04-5ff9c8bc7ddd",
+    "request_id": "req-6af82901",
+    "trace_id": "e872dd7b-16e5-424f-b7a3-411bedaa237b"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:13.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-88662dc9",
+    "trace_id": "f3b40cfa-6631-4c04-b21d-65218eb0f291"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:14.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 2429ms",
+    "request_id": "req-3e7cfe0c",
+    "trace_id": "3fa61ecd-a473-421b-9ae9-3fafca6dad6f"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:15.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 3858ms",
+    "request_id": "req-e29568a1",
+    "trace_id": "76356fd7-2fa1-47c5-ba76-aaf3b113b68e"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:16.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-c9176a65",
+    "trace_id": "c02f5829-ef1c-4360-9bf6-aae07e686f6d"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:17.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 4389ms",
+    "request_id": "req-d1518d71",
+    "trace_id": "94d09201-482f-4ff2-9e98-66e3d1473979"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:18.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-4e9af5cb",
+    "trace_id": "1719995c-b463-462f-a7c4-2efc1fbcb3b3"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:19.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x6770",
+    "request_id": "req-39b22b02",
+    "trace_id": "b6266abd-a41b-42a2-9633-411d3db01058"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:20.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-7a6de829",
+    "trace_id": "3dd69661-d478-4ec4-ae9d-097e18d6c1e0"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:21.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x4756",
+    "request_id": "req-5df6cde4",
+    "trace_id": "a0a7245a-70c8-4441-9e3d-ec7c46236bd9"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:22.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 732ms",
+    "request_id": "req-59fe2d17",
+    "trace_id": "952ac1ad-c82f-4fea-adfe-8a4a5ff57712"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:23.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 2415ms",
+    "request_id": "req-58f79b79",
+    "trace_id": "5c007cd9-490d-4726-91dc-23c350e1593f"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:24.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.142",
+    "request_id": "req-8249102c",
+    "trace_id": "4e882d42-7911-4d62-b148-f094b58ca94b"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:25.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-8ce119a5",
+    "trace_id": "643fbcca-cc75-437e-a515-7f16cd850260"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:26.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-3b068684",
+    "trace_id": "6c1200bb-073d-4757-b732-ee319b3626af"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:27.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-e3a16e78",
+    "trace_id": "ee4d8b25-7177-4e05-b1d1-abbb8f5091c3"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:28.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Slow query detected in auth-service",
+    "request_id": "req-d7ed9894",
+    "trace_id": "9e1b1ef7-693a-4ec6-b804-d05698462e75"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:29.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x184a",
+    "request_id": "req-0aca19cd",
+    "trace_id": "dec668ed-14b1-4699-bbb1-0fc0d269aeec"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:30.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4677ms",
+    "request_id": "req-17f02af1",
+    "trace_id": "c3b54d1d-0485-4c9b-9fb5-ae6b8916811d"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:31.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xe998",
+    "request_id": "req-d8d8c55b",
+    "trace_id": "954079aa-d657-4194-ba2e-4180ca40ed3e"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:32.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 269ms",
+    "request_id": "req-65607523",
+    "trace_id": "b29e46c4-dfdb-4e79-a0ba-b0180752f4a1"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:33.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x1101",
+    "request_id": "req-6e8ded05",
+    "trace_id": "b5b670db-dbf9-4dad-a383-495b36ae7e27"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:34.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x9ab1",
+    "request_id": "req-a3f631c5",
+    "trace_id": "a583e389-d5d6-49b0-8d06-4bb2b62b9d66"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:35.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xe5a6",
+    "request_id": "req-ac074c1c",
+    "trace_id": "cbc896cf-060f-4196-a47d-3b6c5e3f9622"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:36.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "Failed to process payment for 5a48754e-c262-4ed3-92df-2ba294192e8a",
+    "request_id": "req-56f921e1",
+    "trace_id": "341d0c26-59f0-4192-a999-1e517fa8b673"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:37.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xe744",
+    "request_id": "req-7207faa9",
+    "trace_id": "707dec5d-4705-48f8-a0a9-e7cc35aa6bfd"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:38.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xef88",
+    "request_id": "req-8aa04c83",
+    "trace_id": "b350a6b0-80a6-4a27-afa7-db0082c7e2a8"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:39.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xa151",
+    "request_id": "req-12850d12",
+    "trace_id": "e3bf8c8f-8c80-44b6-9358-797babc54fa5"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:40.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x45d4",
+    "request_id": "req-ddb485a3",
+    "trace_id": "18081497-6755-4fd2-bfb5-11392e83a81b"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:41.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-3bea88c0",
+    "trace_id": "fa6443bb-f603-4b2c-9415-3f00decd3f5a"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:42.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Slow query detected in payment-service",
+    "request_id": "req-65191bd8",
+    "trace_id": "407101d4-5c68-4f4b-9a14-a91bb8afd858"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:43.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 864ms",
+    "request_id": "req-0f9cb721",
+    "trace_id": "6ba94ff7-97a1-4452-bb7e-cf759bea30ca"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:44.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x15cf",
+    "request_id": "req-29cfb970",
+    "trace_id": "bf5d511c-f21d-4050-82ce-660762d52b6d"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:45.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-ab217d85",
+    "trace_id": "a0578330-9399-4d7b-8385-831e7bd85f89"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:46.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x25e3",
+    "request_id": "req-dfbd24f3",
+    "trace_id": "ede60289-f3ab-46cc-aece-128620df4a4c"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:47.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 346ms",
+    "request_id": "req-d291d333",
+    "trace_id": "667a78c3-d2ee-46ee-8165-2c433b9b7030"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:48.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 1266ms",
+    "request_id": "req-e489dc0c",
+    "trace_id": "7c0cdce0-dc73-4adc-b97f-48c222a30f8f"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:49.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xb199",
+    "request_id": "req-9f300c4d",
+    "trace_id": "9cfb464b-1f36-4d3b-a4a1-1cb81004d038"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:50.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x54f1",
+    "request_id": "req-3b68b61d",
+    "trace_id": "16c7c7d7-a887-41d5-822c-b97f889733b5"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:51.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xe5b9",
+    "request_id": "req-066842de",
+    "trace_id": "25fd00a4-2b5f-4aa3-acf8-32396fd4c123"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:52.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "UNCAUGHT_EXCEPTION: NullPointer at line 9737",
+    "request_id": "req-01e904f0",
+    "trace_id": "9a6fbcc0-937c-4690-a2a8-772ef817af5e"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:53.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-5162ee54",
+    "trace_id": "7e4869c8-3328-4900-b1b6-036ac4bcc994"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:54.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 2905ms",
+    "request_id": "req-6ee4f5bd",
+    "trace_id": "77cf984d-193c-4417-b06a-d16de6ee74d6"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:55.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-294c139a",
+    "trace_id": "da5448c3-f041-444d-bc74-e0876f839d0f"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:56.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 1495ms",
+    "request_id": "req-7a0bad44",
+    "trace_id": "f08abaac-aa58-4eb4-85a7-80fd7a2b9865"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:57.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x1460",
+    "request_id": "req-45ce394a",
+    "trace_id": "cf754ee3-51e2-4732-a558-85121e070be6"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:58.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x628",
+    "request_id": "req-d8b10b04",
+    "trace_id": "00a70e6f-8f82-4d16-a530-e757efa6aa3c"
+  },
+  {
+    "timestamp": "2026-04-02T07:21:59.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-a2d5481c",
+    "trace_id": "f26d5178-c4bc-423a-a9b6-bc65cb33e54d"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:00.733387Z",
+    "service": "order-service",
+    "level": "ERROR",
+    "message": "UNCAUGHT_EXCEPTION: NullPointer at line 8698",
+    "request_id": "req-f5e7f0c8",
+    "trace_id": "8751aad2-572f-4341-9c7e-c6298d7b7369"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:01.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-6f8d4ac2",
+    "trace_id": "fdeb8b6b-cff0-4d59-8729-a319b63b4fdd"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:02.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.207",
+    "request_id": "req-b686711d",
+    "trace_id": "897ab3f4-f780-4548-8f07-627f877362db"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:03.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-ac2d6e8b",
+    "trace_id": "142619cc-7f83-40d6-a3a6-32d5804801a8"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:04.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Slow query detected in order-service",
+    "request_id": "req-995ee820",
+    "trace_id": "e7e6c356-e6f1-4aa1-8960-6a2cb56a6d85"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:05.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.79",
+    "request_id": "req-58704638",
+    "trace_id": "4638c79e-a8b3-478c-b3eb-126905853168"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:06.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x77b7",
+    "request_id": "req-3997f583",
+    "trace_id": "6388e1bd-f038-4be4-8461-5bf308495c14"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:07.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 3141ms",
+    "request_id": "req-b2c5aae0",
+    "trace_id": "6b132bbf-8558-4a04-87ca-b438ffb2b9d4"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:08.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xde35",
+    "request_id": "req-98ded7fa",
+    "trace_id": "196a2abf-c76e-4289-b48e-abb8826e52f6"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:09.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-e837d48c",
+    "trace_id": "dfa8bf43-ed8b-4dfc-8252-d5562f958742"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:10.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4895ms",
+    "request_id": "req-d48e6bf5",
+    "trace_id": "fdde11b1-411f-42aa-ae86-178bea95beb6"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:11.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.106",
+    "request_id": "req-e6a916a6",
+    "trace_id": "815b9fda-0829-4aa4-b931-07d391bf6fbf"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:12.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-74128961",
+    "trace_id": "c7404c95-ef43-42eb-acaf-4e3ad15037bd"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:13.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 1029ms",
+    "request_id": "req-47b5222d",
+    "trace_id": "b6480835-e27c-40bc-a4b4-8615cedafd6a"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:14.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-c752b207",
+    "trace_id": "6a8111a1-f6b9-4199-a5b9-0faef0245353"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:15.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.26",
+    "request_id": "req-ce7a162e",
+    "trace_id": "86bf6399-2318-42d5-8f09-5b6e938954e1"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:16.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-8d52fcbf",
+    "trace_id": "a03149f3-4353-468f-9f45-5062a4efd9e0"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:17.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x641a",
+    "request_id": "req-39fcbc15",
+    "trace_id": "26dcbec5-d32d-490e-9123-5cc82ca8a2da"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:18.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-76f51cd4",
+    "trace_id": "3d7a0ea2-9c82-4b84-962d-a0785d7cc5b0"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:19.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 193ms",
+    "request_id": "req-64c2d8bf",
+    "trace_id": "33048a7c-3df1-47fe-8f35-c63562786a62"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:20.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 3079ms",
+    "request_id": "req-1c03f539",
+    "trace_id": "6b8d3af1-168a-4959-a2ca-e16473506dfc"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:21.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x6adf",
+    "request_id": "req-03ea2711",
+    "trace_id": "b30c3b8b-6b83-4a9a-96f4-2c7753dd4f18"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:22.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Slow query detected in order-service",
+    "request_id": "req-3f023c6f",
+    "trace_id": "af137198-3d20-4fa2-bed4-1fc9355fe58f"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:23.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-a12669ae",
+    "trace_id": "ffa1a1b0-7d57-4eb0-8fae-d88c323fb837"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:24.733387Z",
+    "service": "shipping-worker",
+    "level": "ERROR",
+    "message": "UNCAUGHT_EXCEPTION: NullPointer at line 5806",
+    "request_id": "req-9a9d118b",
+    "trace_id": "262f7ae9-c502-4953-b4f1-cea31a9b5674"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:25.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xfb5a",
+    "request_id": "req-39368787",
+    "trace_id": "86a27f48-5600-400a-84f2-3e0c4a13380d"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:26.733387Z",
+    "service": "shipping-worker",
+    "level": "ERROR",
+    "message": "Failed to process payment for 10edb350-66de-4f70-a3c2-859073919212",
+    "request_id": "req-b9a5bd08",
+    "trace_id": "a8623927-5472-4626-8dd3-a4c919917823"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:27.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xf320",
+    "request_id": "req-ef22c761",
+    "trace_id": "6ac3532e-6efa-4aba-9652-5b5f4d07c698"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:28.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4085ms",
+    "request_id": "req-2b489cfa",
+    "trace_id": "ab5d1396-9dfe-4940-9b35-557d6d7b1852"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:29.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-3e25c3c3",
+    "trace_id": "9a844d73-8f50-4633-bd45-05f20592e92b"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:30.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "UNCAUGHT_EXCEPTION: NullPointer at line 8004",
+    "request_id": "req-81ad87c6",
+    "trace_id": "1a7ff626-dffc-4efc-b5a6-f525b0d5e4fb"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:31.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-ac5cdc94",
+    "trace_id": "2cdda46f-32b9-4dc2-8371-4c9a017f7c31"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:32.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "UNCAUGHT_EXCEPTION: NullPointer at line 6441",
+    "request_id": "req-01210bf8",
+    "trace_id": "15098dfd-f19b-4e8c-914e-7fb5ceca8660"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:33.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-1dbcbaa6",
+    "trace_id": "02e8b4bb-3e0f-4f06-afcf-7b38177a2c69"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:34.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-a068ff61",
+    "trace_id": "5d1fcc9e-1017-43c8-9090-1768f3d6aa9a"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:35.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x3f4",
+    "request_id": "req-a4dfa5da",
+    "trace_id": "b5eeae50-ea45-4123-93dd-48d3976c9d41"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:36.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x211f",
+    "request_id": "req-60d29d42",
+    "trace_id": "e82dfb15-9564-401a-9d78-ba5ebf0142f5"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:37.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-d49b2ef9",
+    "trace_id": "8d4944d3-7b11-4fed-a556-fec564983453"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:38.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 2345ms",
+    "request_id": "req-9e815040",
+    "trace_id": "e640508f-0d5f-40ce-aa17-47f5e6a93589"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:39.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-3e077b5a",
+    "trace_id": "80f98e7d-82ae-4147-aafe-06be70f3866f"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:40.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 3515ms",
+    "request_id": "req-a56baed1",
+    "trace_id": "791c736c-64ba-403e-be9a-d4f2bc2bbeec"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:41.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-34815c2e",
+    "trace_id": "7fc72ada-2c22-4b40-b6ae-744d96242df7"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:42.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-fe4e3c5f",
+    "trace_id": "15f780dd-cd7e-4a75-b3d7-17e416b01d63"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:43.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.214",
+    "request_id": "req-a7611d98",
+    "trace_id": "77973ab4-58de-4c6a-9d3c-02a36ac7fe63"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:44.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 3016ms",
+    "request_id": "req-9e1cf977",
+    "trace_id": "c312f3f1-257b-42ef-bdf1-48b55883cc91"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:45.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-26cd6c26",
+    "trace_id": "89751e46-cfa0-40c7-aac0-657ba9b5ef4d"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:46.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-c3b1628a",
+    "trace_id": "23036688-2db6-48af-af15-09e66242cd64"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:47.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-84814a2f",
+    "trace_id": "76c809f7-48e0-411d-9912-f59cba6aafd5"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:48.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x593d",
+    "request_id": "req-fef79188",
+    "trace_id": "be6e19af-7c0f-41ba-961c-87f9384ac411"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:49.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.208",
+    "request_id": "req-af76b125",
+    "trace_id": "02b0c129-a655-4096-ba76-b65a6693e810"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:50.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "Failed to process payment for d92a8f15-57e3-4085-a9b9-81dd9c3ed7c8",
+    "request_id": "req-6554d9f9",
+    "trace_id": "9b78e8ac-1a64-44a0-b8ee-49464caec7d4"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:51.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.211",
+    "request_id": "req-a358cc0e",
+    "trace_id": "ea9ed2db-5811-4985-9acc-bd1797bd7f87"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:52.733387Z",
+    "service": "payment-service",
+    "level": "ERROR",
+    "message": "Failed to process payment for 76892523-507f-4bea-ab36-4e7a4e327adb",
+    "request_id": "req-88875719",
+    "trace_id": "6f9360f8-6631-494b-abc7-760b3868d194"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:53.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xe4d5",
+    "request_id": "req-0423c86e",
+    "trace_id": "4e06f758-eee9-4ef7-97b6-fdc1ee34d85a"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:54.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-bc5e92ac",
+    "trace_id": "7df5cf64-d1a5-4853-93cf-9f4c24d57b29"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:55.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x6930",
+    "request_id": "req-bc463588",
+    "trace_id": "7c7c40e6-de01-4586-8158-4a37be9cde79"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:56.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-a473a4ea",
+    "trace_id": "ffebb379-a59a-4437-bb74-f6033dd3df1e"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:57.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xd9b7",
+    "request_id": "req-fce5dea3",
+    "trace_id": "70765a43-b7b4-4853-aad4-a1ac2bfc6237"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:58.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-c906cbba",
+    "trace_id": "a67fd9a6-a78d-4230-aa0f-d14c48c664ae"
+  },
+  {
+    "timestamp": "2026-04-02T07:22:59.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 3390ms",
+    "request_id": "req-149afa8d",
+    "trace_id": "6279d15e-2dbb-4979-8b0e-ed3d5faebc06"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:00.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x6335",
+    "request_id": "req-f95ab366",
+    "trace_id": "04166b70-2feb-49c7-a274-b02eafe9fedd"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:01.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xa97e",
+    "request_id": "req-6a5577a9",
+    "trace_id": "d94a7417-a724-4f81-b6d0-962235adb0a7"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:02.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-3c878e0e",
+    "trace_id": "6619a8b9-5179-4f23-a6ef-aa1dd9f64c67"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:03.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 3786ms",
+    "request_id": "req-57f885e6",
+    "trace_id": "05f931c9-b50d-4dd7-8b97-e17a1e572504"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:04.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-7883bcb5",
+    "trace_id": "ab310775-0d87-42ee-89f9-610c7c2eb489"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:05.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4790ms",
+    "request_id": "req-28410c57",
+    "trace_id": "d00c857a-98e0-4723-8c3a-358275f1594b"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:06.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xe530",
+    "request_id": "req-6a7c314b",
+    "trace_id": "f97f7243-3a09-4923-b36d-378aaeba3752"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:07.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "UNCAUGHT_EXCEPTION: NullPointer at line 1272",
+    "request_id": "req-97355ca1",
+    "trace_id": "250023e1-2c99-48ef-a202-5981091038e0"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:08.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 2706ms",
+    "request_id": "req-d5715bf7",
+    "trace_id": "4a4e04b0-3b7f-4ff7-b252-2b86383cf8e5"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:09.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-91a9e289",
+    "trace_id": "a2c9243c-00b3-4bab-9f2f-eb256f782cf0"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:10.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-8a98be86",
+    "trace_id": "a27a1aa1-6685-40f1-bd49-a7d835682f74"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:11.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x84f1",
+    "request_id": "req-d46086f5",
+    "trace_id": "ca745f2a-c61a-400a-b7f6-fbf4041d517d"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:12.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xa68a",
+    "request_id": "req-11310d32",
+    "trace_id": "ea96cf31-7605-4bf2-bf4a-fed0c06bb344"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:13.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-c6925c4a",
+    "trace_id": "ab5f7a79-aab5-406a-b484-0b10336fcb22"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:14.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.26",
+    "request_id": "req-ae587dbc",
+    "trace_id": "bf09d148-4f0a-4996-abdf-065f25493dee"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:15.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 1050ms",
+    "request_id": "req-ffcfa7da",
+    "trace_id": "713ebe6d-c097-4687-a93c-d1a6cf16597a"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:16.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x9119",
+    "request_id": "req-cae51250",
+    "trace_id": "6491ed97-cd15-4452-b9ef-645599080c7d"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:17.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 192ms",
+    "request_id": "req-5aea5914",
+    "trace_id": "e9f7c68f-6b99-4e87-9259-39d7c18af9dc"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:18.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 1786ms",
+    "request_id": "req-8c005948",
+    "trace_id": "bfcf62f4-009e-43a5-b3e0-04dfb6537861"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:19.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-4a68801b",
+    "trace_id": "12d0d800-b4e8-4bf0-9613-010d25067031"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:20.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x9245",
+    "request_id": "req-c5ab50e3",
+    "trace_id": "efde9e93-f9cd-43ce-b8a6-e19a80cccdb8"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:21.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xa52a",
+    "request_id": "req-f9166e8a",
+    "trace_id": "0be9b24c-e887-4f26-acaf-75e81e357187"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:22.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.107",
+    "request_id": "req-58dc6ea0",
+    "trace_id": "99ea1ca2-6cb4-442d-bc31-b838b1ad9d80"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:23.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.110",
+    "request_id": "req-678c5f34",
+    "trace_id": "50c17abe-fa05-437d-838f-0e60e81b4e9c"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:24.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 1048ms",
+    "request_id": "req-360b42d8",
+    "trace_id": "6d075146-b0a6-43c7-ac8b-180408992919"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:25.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Slow query detected in auth-service",
+    "request_id": "req-1edeb0f2",
+    "trace_id": "d5c7a1ec-9987-46e9-8cf2-329893a82dbe"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:26.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xbe8c",
+    "request_id": "req-dfde2b99",
+    "trace_id": "c7fec65f-7c23-47f1-adc3-87028e2bafa5"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:27.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x3a91",
+    "request_id": "req-c98c9781",
+    "trace_id": "a46ffa34-ae02-492d-a6ba-d781cdf3e71b"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:28.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 2882ms",
+    "request_id": "req-fece1ca3",
+    "trace_id": "3615498c-eea1-455a-8ff2-9e681625bcca"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:29.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-80ffa656",
+    "trace_id": "ecdf0792-37b0-46b2-8765-a3d246d2b474"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:30.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-6c7196aa",
+    "trace_id": "be6ba328-2489-4ce5-9dbc-ba54b27fcdbc"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:31.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 4425ms",
+    "request_id": "req-2fcd9af5",
+    "trace_id": "074edcf6-1f04-4800-9cc9-8565969fe2e8"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:32.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.58",
+    "request_id": "req-47a364da",
+    "trace_id": "92e9a0f1-aee9-41d7-b5df-0b5fd81e8265"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:33.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 3210ms",
+    "request_id": "req-f2a48ce1",
+    "trace_id": "c1a55645-e5e5-4e8a-a77a-24554b07a7f0"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:34.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 3735ms",
+    "request_id": "req-4b512dc9",
+    "trace_id": "e79104a1-8b8a-4d3c-a2f8-201352c65f1d"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:35.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 3098ms",
+    "request_id": "req-e3404958",
+    "trace_id": "e3b5545c-48fd-4ab2-b937-1727e30f2720"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:36.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.125",
+    "request_id": "req-b4836f3d",
+    "trace_id": "86eb2c6e-632d-4bce-ae4e-119cf68cc525"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:37.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Slow query detected in payment-service",
+    "request_id": "req-8d455915",
+    "trace_id": "840ac6f1-b669-4bc3-96f0-ca4328eccda0"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:38.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Slow query detected in auth-service",
+    "request_id": "req-74efcc0a",
+    "trace_id": "cb2326da-d150-4dde-9fee-216fe70805fa"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:39.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xfd84",
+    "request_id": "req-34c1b5c4",
+    "trace_id": "3009b52f-3c9d-4dfc-a3ea-9173491c8457"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:40.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-572cc79a",
+    "trace_id": "fcd8b15a-1d15-441d-9e53-5c8cabaa5abf"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:41.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xb96f",
+    "request_id": "req-08e82718",
+    "trace_id": "1c518b53-575e-46f0-93b0-f84a82ea13ff"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:42.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 3195ms",
+    "request_id": "req-8ccb6c84",
+    "trace_id": "baeb7003-ab03-49e9-909f-829da3f5f640"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:43.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4646ms",
+    "request_id": "req-1d8ca681",
+    "trace_id": "fd267f32-96c0-4f24-80f7-128e68938110"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:44.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xe8e9",
+    "request_id": "req-7eb66392",
+    "trace_id": "1ae164e4-e815-4270-b5a4-c2fda1798585"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:45.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 4898ms",
+    "request_id": "req-710d88fd",
+    "trace_id": "649a4aa6-c979-456f-a24f-941804d36bc5"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:46.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x4fe0",
+    "request_id": "req-2fdfd293",
+    "trace_id": "bef0c8ad-9d97-4ef1-b1dc-1fbbbdd02654"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:47.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-05689e03",
+    "trace_id": "ee05d9c3-16d5-4bfc-b32a-58a6e2eb0981"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:48.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-f20d1048",
+    "trace_id": "839fa91d-3f78-49bf-b4a6-851466fe44cf"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:49.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-3e7541ac",
+    "trace_id": "d4afeb19-be60-407d-b664-991c064fd7f4"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:50.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-753973b5",
+    "trace_id": "faca7b8a-146c-4fcb-b443-5dac04c7da60"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:51.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-a9286bce",
+    "trace_id": "f40176df-de9a-4900-9956-eed49da5b5d4"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:52.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 653ms",
+    "request_id": "req-0ddfe994",
+    "trace_id": "d06a791a-fbaa-48ac-8819-ba2107010b25"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:53.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "Failed to process payment for c632cc6a-05ac-45de-976d-8b305d9136bd",
+    "request_id": "req-0c66a35b",
+    "trace_id": "a8183bed-5a3d-43a0-b4b9-dde6d5cfd8d4"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:54.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 4587ms",
+    "request_id": "req-11684e5b",
+    "trace_id": "277f6f2b-b126-4384-86be-f99b64241d7e"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:55.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Slow query detected in payment-service",
+    "request_id": "req-8d969ac3",
+    "trace_id": "db4628c4-e6b4-45da-8faf-7de7d885b1f2"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:56.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "Slow query detected in shipping-worker",
+    "request_id": "req-c00ec8df",
+    "trace_id": "88ef8e53-64fb-4a90-b08f-5cd030a77a19"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:57.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-b7ee1e9e",
+    "trace_id": "178365f5-6e52-4380-baba-3720a3dce63a"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:58.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 3703ms",
+    "request_id": "req-c1d89214",
+    "trace_id": "1142ca9a-0f90-4b40-9cb9-385ab9905e98"
+  },
+  {
+    "timestamp": "2026-04-02T07:23:59.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x9f1a",
+    "request_id": "req-bf5225c0",
+    "trace_id": "11326d67-0059-4086-9978-dc44b601dbfd"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:00.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 3093ms",
+    "request_id": "req-52db5054",
+    "trace_id": "7160e11c-eb22-4ddc-b72e-09f28a8f30b1"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:01.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-ce73400b",
+    "trace_id": "dc7384ec-66c1-40b1-8476-f4296bcfc93b"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:02.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x3a02",
+    "request_id": "req-e655c69d",
+    "trace_id": "b2f41076-1f16-45d3-ad13-1efe1d7f246f"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:03.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 1570ms",
+    "request_id": "req-bc7bfa5d",
+    "trace_id": "ac9c5271-3752-44d4-b076-2138eabbc20a"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:04.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.104",
+    "request_id": "req-55f1b433",
+    "trace_id": "8d341899-c392-4436-84f1-d03e6a975088"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:05.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.143",
+    "request_id": "req-d76c0632",
+    "trace_id": "68a1fb96-f1db-4c54-bb3e-f672a64ff4ed"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:06.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 3112ms",
+    "request_id": "req-9d331167",
+    "trace_id": "3e6292aa-8410-46b2-a78b-c3e828606e5d"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:07.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-08625a59",
+    "trace_id": "b1082032-5d64-4812-ae3e-14d114ec3548"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:08.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Slow query detected in payment-service",
+    "request_id": "req-899c1ab1",
+    "trace_id": "9bac3010-74c2-41ab-a1da-03b9f42184dd"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:09.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 4144ms",
+    "request_id": "req-8ae43942",
+    "trace_id": "1fedec34-5e2a-4dd3-9ca6-8ab0671ebda0"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:10.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 3964ms",
+    "request_id": "req-ff28549b",
+    "trace_id": "4debde06-5401-45c2-bffe-04db1c6507fd"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:11.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-53dd9899",
+    "trace_id": "292e66ef-d8fe-44c7-98bb-3db31261220d"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:12.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 2124ms",
+    "request_id": "req-e76afd38",
+    "trace_id": "b5da1541-21c0-4c83-975a-9bdcbf988c4a"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:13.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x80af",
+    "request_id": "req-80b3366e",
+    "trace_id": "167e7808-ed4c-4990-9ca3-4a6b8ef47ddd"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:14.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-c8414ab2",
+    "trace_id": "38eeb5cf-42d0-429e-827f-ef3c930c5905"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:15.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x60ee",
+    "request_id": "req-2c85973d",
+    "trace_id": "28a40276-579b-4971-9417-7a29baf0abc4"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:16.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Slow query detected in payment-service",
+    "request_id": "req-d222bcc8",
+    "trace_id": "41150624-b508-4fe3-a68b-e27c460759de"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:17.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-bfa5e573",
+    "trace_id": "754f0b23-98fa-4dec-8566-8ce7b202c15b"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:18.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 4685ms",
+    "request_id": "req-ae2fc3d0",
+    "trace_id": "52482290-3ee1-4547-b76e-c4b89a6fabee"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:19.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 3202ms",
+    "request_id": "req-b2646678",
+    "trace_id": "482bf8d1-fe76-4441-88d7-66edeb51de89"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:20.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-d9ac50ab",
+    "trace_id": "95d79082-fbbc-46a0-b2d7-94462cd3d6cd"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:21.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.12",
+    "request_id": "req-98968b15",
+    "trace_id": "bde2ff84-7b71-43f0-9244-4658f75cd08b"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:22.733387Z",
+    "service": "shipping-worker",
+    "level": "ERROR",
+    "message": "Failed to process payment for 7948cc01-e2d6-4b15-926b-52661d6b1e17",
+    "request_id": "req-23d019e3",
+    "trace_id": "5c3e880a-1bb4-447a-ad1f-427d86c303e9"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:23.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x103",
+    "request_id": "req-85a53f69",
+    "trace_id": "a4a3b93f-8748-484d-ab6d-d35c8678481d"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:24.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 2391ms",
+    "request_id": "req-f9c3535c",
+    "trace_id": "eab3e1c9-50e0-43c4-98eb-b56b17f41743"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:25.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x3780",
+    "request_id": "req-e56e0ae4",
+    "trace_id": "ea7b7659-dbb8-4d88-97fa-4bff9944b001"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:26.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 2105ms",
+    "request_id": "req-c6699747",
+    "trace_id": "7def1a1a-b4ab-4260-8fa2-1bfff47b5f3e"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:27.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-2b14c37a",
+    "trace_id": "698d8e59-5988-47e9-be41-ce03903c1448"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:28.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.89",
+    "request_id": "req-c712216a",
+    "trace_id": "d82a056e-4749-49fd-a17d-376227d36e49"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:29.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-903c1f25",
+    "trace_id": "211ad3e2-0a93-4b61-b15a-099433f5586a"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:30.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-1afe62c1",
+    "trace_id": "627d52a5-8354-4956-b7f2-1d20d63a57fe"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:31.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.163",
+    "request_id": "req-6fe11461",
+    "trace_id": "2b1275c4-9a10-49dc-9fe8-98f7bef271f3"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:32.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-542ca1a7",
+    "trace_id": "42eb32fe-b00e-46f7-a905-d71e55642861"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:33.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x4505",
+    "request_id": "req-4b75d3da",
+    "trace_id": "69645dea-b918-4715-84ec-f28a3245ab04"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:34.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xe151",
+    "request_id": "req-ffe703b6",
+    "trace_id": "4aa09620-ad16-44ca-bcb8-061f640105f8"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:35.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "Slow query detected in auth-service",
+    "request_id": "req-3dedb0b1",
+    "trace_id": "4408da83-0633-4d96-80b0-4cddefc3a282"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:36.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x86ea",
+    "request_id": "req-afd7e3c1",
+    "trace_id": "aa3addfe-6d2b-4ef9-85de-b120d7fc0286"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:37.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xcc2d",
+    "request_id": "req-9df1e088",
+    "trace_id": "86cfae0e-56d6-4ecf-9e33-4803d879aa0c"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:38.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x551d",
+    "request_id": "req-6ffb7a29",
+    "trace_id": "62417d61-0920-4b4d-a6a8-142aec6d8755"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:39.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Slow query detected in payment-service",
+    "request_id": "req-061550d1",
+    "trace_id": "3835b3dd-3ef7-4e32-afc8-db568da1b0d1"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:40.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 1233ms",
+    "request_id": "req-12254c80",
+    "trace_id": "e2d01239-f70a-4dc3-a603-4a8e127bb4a4"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:41.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-3fbaceaa",
+    "trace_id": "6fb93b89-e027-4bff-8597-f49bc2123013"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:42.733387Z",
+    "service": "auth-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-7de54158",
+    "trace_id": "9d7f9d64-ce63-4590-994f-50ae781b9064"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:43.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-33f807cb",
+    "trace_id": "89fb4df1-1934-40c9-a88e-9fe054411917"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:44.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-be5ec9bc",
+    "trace_id": "744be784-fad1-421a-b160-e085ffb490ff"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:45.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-918d53c1",
+    "trace_id": "a375cc78-5bd5-4af1-8fef-a8ba5eb5b70c"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:46.733387Z",
+    "service": "auth-service",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.99",
+    "request_id": "req-20bd2fd3",
+    "trace_id": "4f908a12-9e83-4014-920c-fd734dad805b"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:47.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-876cbb71",
+    "trace_id": "142dac5f-6d8c-48f3-a7f0-2a38b6cff0e8"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:48.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xff0c",
+    "request_id": "req-8c74906f",
+    "trace_id": "9543d909-a313-4513-b94c-f05860c9ff46"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:49.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x8c6",
+    "request_id": "req-68ef4f6d",
+    "trace_id": "0a4c8689-26b9-413a-97db-93e944f52c14"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:50.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 2659ms",
+    "request_id": "req-c5ea21d3",
+    "trace_id": "ef96df9c-7e88-45cc-9e8b-50ccd5fb28c2"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:51.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-ba3274f4",
+    "trace_id": "b5bc5274-1d7f-4a82-b32a-905a104b7ca7"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:52.733387Z",
+    "service": "order-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.41",
+    "request_id": "req-6f624622",
+    "trace_id": "d357ddfa-58b3-439f-b62a-4bff75c2dc41"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:53.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "Rate limit approaching for IP 192.168.1.153",
+    "request_id": "req-e40065b8",
+    "trace_id": "858e4e26-b1a6-4c5f-9e34-68b0a09c885c"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:54.733387Z",
+    "service": "shipping-worker",
+    "level": "ERROR",
+    "message": "Connection timeout at 192.168.1.169",
+    "request_id": "req-40f00aa5",
+    "trace_id": "dbcc6261-2f51-4209-8825-cff7c68b979d"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:55.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "API request completed in 2241ms",
+    "request_id": "req-1bef3cbe",
+    "trace_id": "041bc664-7673-4c44-8225-7e70e2c3c2ba"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:56.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0x7f3e",
+    "request_id": "req-9f86570f",
+    "trace_id": "c8a8cfa9-f2c8-48a6-9209-f1730c4dcd16"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:57.733387Z",
+    "service": "order-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-273ee570",
+    "trace_id": "41ff6a19-2d7c-478d-9214-24fbdc30fa02"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:58.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "Cache hit for key: 0xe5fb",
+    "request_id": "req-4754f3d0",
+    "trace_id": "6985f019-e1bc-495b-967f-0b857f2ba99f"
+  },
+  {
+    "timestamp": "2026-04-02T07:24:59.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 2919ms",
+    "request_id": "req-dc524280",
+    "trace_id": "4116e755-9e10-4649-b80d-45afbc91cab7"
+  },
+  {
+    "timestamp": "2026-04-02T07:25:00.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-1bb354ae",
+    "trace_id": "ce62d076-b343-4af9-9d61-58da0ef16029"
+  },
+  {
+    "timestamp": "2026-04-02T07:25:01.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "API request completed in 2036ms",
+    "request_id": "req-d64e975c",
+    "trace_id": "b1985efa-dde2-4093-891e-178c93837480"
+  },
+  {
+    "timestamp": "2026-04-02T07:25:02.733387Z",
+    "service": "payment-service",
+    "level": "INFO",
+    "message": "API request completed in 2613ms",
+    "request_id": "req-98a46c23",
+    "trace_id": "60512132-53c4-4cce-9a4c-69b7a9d24ad5"
+  },
+  {
+    "timestamp": "2026-04-02T07:25:03.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-b54cb33a",
+    "trace_id": "43a10eff-02b3-496f-8d97-73bd3fca73c1"
+  },
+  {
+    "timestamp": "2026-04-02T07:25:04.733387Z",
+    "service": "auth-service",
+    "level": "INFO",
+    "message": "User session started",
+    "request_id": "req-5ccba0bc",
+    "trace_id": "67468438-2934-4252-b770-a82e12184885"
+  },
+  {
+    "timestamp": "2026-04-02T07:25:05.733387Z",
+    "service": "payment-service",
+    "level": "WARN",
+    "message": "High memory usage: 85%",
+    "request_id": "req-95c8c307",
+    "trace_id": "ca3db1f6-1bde-4451-aab6-8b71e4ccc3ad"
+  },
+  {
+    "timestamp": "2026-04-02T07:25:06.733387Z",
+    "service": "shipping-worker",
+    "level": "INFO",
+    "message": "API request completed in 1872ms",
+    "request_id": "req-c2ee8cb7",
+    "trace_id": "a542f838-d942-479d-9586-020d37dd453c"
+  },
+  {
+    "timestamp": "2026-04-02T07:25:07.733387Z",
+    "service": "shipping-worker",
+    "level": "WARN",
+    "message": "Slow query detected in shipping-worker",
+    "request_id": "req-21693f43",
+    "trace_id": "c35c4ec7-6f3b-48f1-aec3-52652f0d7935"
+  }
+]
