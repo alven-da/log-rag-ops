@@ -40,7 +40,7 @@ class LogVectorStore:
 
     def load_index(self):
         # FAISS saves a folder containing index.faiss and index.pkl
-        if os.path.exists(os.path.join(self.index_path, "index.faiss")):
+        if os.path.exists(os.path.join(self.index_path, "data/faiss_index/index.faiss")):
             self.vector_store = FAISS.load_local(
                 self.index_path, 
                 self.embeddings, 

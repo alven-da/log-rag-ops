@@ -1,5 +1,3 @@
-# Payment Service Runbook
-
 ## DB_CONNECTION_TIMEOUT
 **Symptoms:** Logs containing `Database connection timeout at <IP>`.
 
@@ -10,5 +8,10 @@
 
 ## GATEWAY_LATENCY_HIGH
 **Symptoms:** Logs containing `Gateway latency high: <TIME>`.
+
+**Action:** Check the status page of the third-party provider (Stripe/Adyen).
+
+## SESSION_STARTED
+**Symptoms:** Logs containing `Session started`.
 
 **Action:** Check the status page of the third-party provider (Stripe/Adyen).
